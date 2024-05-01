@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautam1103&label=Profile%20views&color=0e75b6&style=flat" alt="gautam1103" /> </p>
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [Coming Soon]
 
 - 💬 Ask me about **MongoDB, Express, React, Node-JS**
 
-- 📫 How to reach me **mishragautam996@gmail.com**
-
-- 📄 Know about my Blogs [https://medium.com/@gautammishra71597/who-should-start-coding-8a54cbc036f4](https://medium.com/@gautammishra71597/who-should-start-coding-8a54cbc036f4)
+- 📫 How to reach me **gautambranddy.net**
 
 - ⚡ Fun fact **I like travelling but too lazy to go Out😅**
 
